@@ -6,5 +6,5 @@
  * Time: 6:56 PM
  */
 
-echo 'feature1 test';
+echo 'feature1';
 ?>
