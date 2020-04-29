@@ -1,5 +1,5 @@
 <?php
 
-echo 'feature22';
+echo 'feature2';
 
 ?>
